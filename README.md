@@ -1,17 +1,19 @@
-# Hi, I'm [Dhahbi Mohamed] 👋
-🎓 CS Student | 🤖 Learning AI & Machine Learning  
-🧠 Building projects, reading papers, and growing every day.
+# 🐍 Python Practice – Summer 2025
 
-## 🌱 What I'm Learning
-- Python for AI
-- Machine Learning & Deep Learning
-- NLP and Transformers
+This repository contains my daily Python problem-solving practice to improve my coding skills, logic, and syntax memory. I focus on consistency, clean code, and learning from real-world challenges.
 
-## 🔭 This Summer
-- [x] Set up GitHub
-- [ ] Learn NumPy, pandas
-- [ ] Build ML Projects
-- [ ] Read 5 research papers
+---
 
-## 📫 Reach Me
-- Email: mohameddhahbi56@gmail.com
+## 📅 Daily Plan
+
+- ✅ **1 exercise/day** from each platform:
+  - [Exercism](https://exercism.org/tracks/python)
+  - [Edabit](https://edabit.com)
+  - [LeetCode](https://leetcode.com)
+- 🧠 Practice focus: logic, syntax, speed, clean code
+- 💡 Learn from mistakes and rewrite when needed
+
+---
+
+## 📂 Folder Structure
+
