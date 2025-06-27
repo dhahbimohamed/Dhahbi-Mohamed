@@ -15,5 +15,3 @@ This repository contains my daily Python problem-solving practice to improve my 
 
 ---
 
-## 📂 Folder Structure
-
